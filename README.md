@@ -1,8 +1,8 @@
 # 1erPARCIAL - MIÉRCOLES - 09/10/24 -
 
     Por favor COMPLETAR:
-    - NOMBRE:
-    - APELLIDO:
+    - NOMBRE: nombre
+    - APELLIDO: apellido
     - Cuenta GitHub:
 
 ## (1pt.) Ejercicio 1
